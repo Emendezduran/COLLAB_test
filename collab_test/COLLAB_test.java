@@ -11,7 +11,9 @@ public class COLLAB_test {
     Scanner leernombre = new Scanner (System.in);
     String nombre = leernombre.next();
     
-    System.out.println("Hola" +nombre+"!");
+    System.out.println("Hola " +nombre+"!");
+    System.out.println("Chao " +nombre+"!");//edit by fsancheztemprano
+    
      
         
     }
