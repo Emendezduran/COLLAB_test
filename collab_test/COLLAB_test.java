@@ -16,7 +16,7 @@ public class COLLAB_test {
     
     System.out.println("Hola"
             + "" +nombre+"!");
-     
+     for(int i=1;i<80;i++)System.out.println(i);
         
     }
     
